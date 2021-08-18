@@ -8,9 +8,9 @@
 - ⚡ Hobbies **Fotografia, Leer, TaeKwonDo**
 
 <h3 align="left">Contacto:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/joel-aviles-04396a174" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/joel-aviles-04396a174" height="30" width="40" /></a>
-</p>
+
+|<a href="https://linkedin.com/in/linkedin.com/in/joel-aviles-04396a174" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/joel-aviles-04396a174" height="30" width="40" /></a>|
+|:---:|
 
 <h3 align="left">Lenguajes y Herramientas:</h3>
 <p align="left"> 
