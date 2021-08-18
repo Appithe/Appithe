@@ -5,7 +5,7 @@
 
 - 📫 Correo **avilesjoel413@gmail.com**
 
-- ⚡ Hobbies **Fotografia, Leer, TaeKwonDo**
+- ⚡ Pasatiempos **Fotografia, Leer, Ejercicio, Peliculas**
 
 <h3 align="left">Contacto:</h3>
 
