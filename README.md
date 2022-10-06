@@ -2,18 +2,16 @@
 
 # Hola 👋, soy Joel Avilés
 
-## Soy un desarrollador web recién egresado de la universidad de La Salle Bajío y estoy en busca de mi primer trabajo
+<h3>Soy un desarrollador web recién egresado de la universidad de La Salle Bajío y estoy en busca de mi primer trabajo</h3>
+
+<br/>
 
 ## 📲 Contacto
-
----
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-007ACC.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/joel-aviles/)
 [![whatsapp](https://img.shields.io/badge/whatsapp-00F00.svg?style=for-the-badge&logo=whatsapp&logoColor=black)](https://wa.me/524731114987)
 
 ## 🦾 Habilidades
-
----
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 ![Css3](https://img.shields.io/badge/Css3-1572B6.svg?style=for-the-badge&logo=Css3&logoColor=white)
@@ -25,28 +23,18 @@
 
 ## 🌱 Aprendizaje continuo
 
----
-
 ![Svelte](https://img.shields.io/badge/Svelte-ff3e00.svg?style=for-the-badge&logo=Svelte&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-1572B6.svg?style=for-the-badge&logo=TailwindCSS&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongo-13aa52.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## Mis top repos
 
----
-
 [![hacktoberfest-2022](https://github-readme-stats.vercel.app/api/pin/?username=Appithe&repo=hacktoberfest-2022&theme=onedark)](https://github.com/Appithe/hacktoberfest-2022)
-
 [![random-movies](https://github-readme-stats.vercel.app/api/pin/?username=Appithe&repo=random-movies&theme=onedark)](https://github.com/Appithe/random-movies)
-
 [![Frontend-Mentor](https://github-readme-stats.vercel.app/api/pin/?username=Appithe&repo=Frontend-Mentor&theme=onedark)](https://github.com/Appithe/Frontend-Mentor)
-
 
 ## 👀 Github stats
 
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Appithe&layout=compact&theme=onedark)
-
 ![Appithe's Stats](https://github-readme-stats.vercel.app/api?username=Appithe&show_icons=true&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Appithe&layout=compact&theme=onedark)
 
