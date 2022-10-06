@@ -1,31 +1,52 @@
 [![@appithe's Holopin board](https://holopin.io/api/user/board?user=appithe)](https://holopin.io/@appithe)
 
-<h1 align="center">Hola 👋, soy Joel Aviles</h1>
-<h3 align="center">Soy estudiante de ingenieria de software y sistemas computacionales</h3>
+# Hola 👋, soy Joel Avilés
 
-- 🌱 Actualmente estoy aprendiendo **UX / UI**
+## Soy un desarrollador web recién egresado de la universidad de La Salle Bajío y estoy en busca de mi primer trabajo
 
-- 📫 Correo **avilesjoel413@gmail.com**
+## 📲 Contacto
 
-- ⚡ Pasatiempos **Fotografia, Leer, Ejercicio, Peliculas**
+---
 
-### Contacto:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-007ACC.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/joel-aviles/)
+[![whatsapp](https://img.shields.io/badge/whatsapp-00F00.svg?style=for-the-badge&logo=whatsapp&logoColor=black)](https://wa.me/524731114987)
 
-|<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/joel-aviles-04396a174" height="30" width="40" />|
-|--|
+## 🦾 Habilidades
 
-### Lenguajes:
-|<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>|
-|--|--|--|
- 
-### WEB:
-|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>|
-|--|--|--|
+---
 
-### Frameworks:
-|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>|<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>|<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>|
-|--|--|--|
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+![Css3](https://img.shields.io/badge/Css3-1572B6.svg?style=for-the-badge&logo=Css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![NodeJs](https://img.shields.io/badge/NodeJs-43853d.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-45b8d8.svg?style=for-the-badge&logo=React&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
 
-### Herramientas:
-|<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>|<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>|<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>|<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>|
-|--|--|--|--|--|
+## 🌱 Aprendizaje continuo
+
+---
+
+![Svelte](https://img.shields.io/badge/Svelte-ff3e00.svg?style=for-the-badge&logo=Svelte&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-1572B6.svg?style=for-the-badge&logo=TailwindCSS&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongo-13aa52.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+## Mis top repos
+
+---
+
+[![hacktoberfest-2022](https://github-readme-stats.vercel.app/api/pin/?username=Appithe&repo=hacktoberfest-2022&theme=onedark)](https://github.com/Appithe/hacktoberfest-2022)
+
+[![random-movies](https://github-readme-stats.vercel.app/api/pin/?username=Appithe&repo=random-movies&theme=onedark)](https://github.com/Appithe/random-movies)
+
+[![Frontend-Mentor](https://github-readme-stats.vercel.app/api/pin/?username=Appithe&repo=Frontend-Mentor&theme=onedark)](https://github.com/Appithe/Frontend-Mentor)
+
+
+## 👀 Github stats
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Appithe&layout=compact&theme=onedark)
+
+![Appithe's Stats](https://github-readme-stats.vercel.app/api?username=Appithe&show_icons=true&theme=onedark)
+
