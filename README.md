@@ -27,11 +27,12 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-1572B6.svg?style=for-the-badge&logo=TailwindCSS&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongo-13aa52.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## Mis top repos
+## Mis repos
 
 [![hacktoberfest-2022](https://github-readme-stats.vercel.app/api/pin/?username=Appithe&repo=hacktoberfest-2022&theme=onedark)](https://github.com/Appithe/hacktoberfest-2022)
 [![random-movies](https://github-readme-stats.vercel.app/api/pin/?username=Appithe&repo=random-movies&theme=onedark)](https://github.com/Appithe/random-movies)
 [![Frontend-Mentor](https://github-readme-stats.vercel.app/api/pin/?username=Appithe&repo=Frontend-Mentor&theme=onedark)](https://github.com/Appithe/Frontend-Mentor)
+[![Frontend-Mentor](https://github-readme-stats.vercel.app/api/pin/?username=Appithe&repo=my-portfolio&theme=onedark)](https://github.com/Appithe/my-portfolio)
 
 ## 👀 Github stats
 
