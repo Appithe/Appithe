@@ -1,5 +1,3 @@
-[![@appithe's Holopin board](https://holopin.io/api/user/board?user=appithe)](https://holopin.io/@appithe)
-
 # Hola 👋, soy Joel Avilés
 
 <h3>Soy un desarrollador web recién egresado de la universidad de La Salle Bajío y estoy en busca de mi primer trabajo</h3>
