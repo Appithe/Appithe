@@ -7,7 +7,6 @@
 ## 📲 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-007ACC.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/joel-aviles/)
-[![whatsapp](https://img.shields.io/badge/whatsapp-00F00.svg?style=for-the-badge&logo=whatsapp&logoColor=black)](https://wa.me/524731114987)
 
 ## 🦾 Habilidades
 
